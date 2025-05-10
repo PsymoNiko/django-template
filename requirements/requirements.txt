@@ -1,0 +1,22 @@
+Django~=4.2
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers~=3.14
+django-filter~=23.1
+django-storages~=1.13
+django-admin-sortable2~=2.1.8
+#django-minio-backend==3.1.0b0
+django-celery-beat~=2.5
+django-jalali~=6.0
+boto3~=1.26.1
+#Pillow~=9.5
+python-dotenv
+#pytest-django~=4.5
+psycopg2-binary~=2.9
+# psycopg2
+python-decouple~=3.8
+redis
+django-redis~=5.4
+jdatetime~=4.1.1
+celery~=5.2.7
+

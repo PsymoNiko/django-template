@@ -1,0 +1,7 @@
+-r requirements.txt
+# install gunicorn or desired server
+django-extensions~=3.2.3
+drf-yasg~=1.21
+gunicorn
+Faker
+sentry-sdk==1.35.0
